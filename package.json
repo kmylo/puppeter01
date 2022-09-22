@@ -1,0 +1,23 @@
+{
+  "name": "puppeter01",
+  "version": "1.0.0",
+  "description": "POC wip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmylo/puppeter01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmylo/puppeter01/issues"
+  },
+  "homepage": "https://github.com/kmylo/puppeter01#readme",
+  "dependencies": {
+    "puppeteer": "^18.0.5"
+  }
+}
